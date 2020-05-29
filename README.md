@@ -1,0 +1,2 @@
+# Lora
+Проект для SfeduNET
