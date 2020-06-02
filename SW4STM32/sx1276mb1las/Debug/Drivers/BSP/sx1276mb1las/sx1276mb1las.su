@@ -1,0 +1,11 @@
+sx1276mb1las.c:122:10:SX1276GetWakeTime	0	static
+sx1276mb1las.c:127:6:SX1276SetXO	0	static
+sx1276mb1las.c:305:6:SX1276CheckRfFrequency	0	static
+sx1276mb1las.c:167:6:SX1276SetRfTxPower	16	static
+sx1276mb1las.c:130:6:SX1276IoInit	32	static
+sx1276mb1las.c:154:6:SX1276IoDeInit	32	static
+sx1276mb1las.c:146:6:SX1276IoIrqInit	16	static
+sx1276mb1las.c:264:13:SX1276AntSwInit	32	static
+sx1276mb1las.c:247:6:SX1276SetAntSwLowPower	8	static
+sx1276mb1las.c:289:6:SX1276SetAntSw	8	static
+sx1276mb1las.c:235:9:SX1276GetPaSelect	0	static
